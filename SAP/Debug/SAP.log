@@ -1,0 +1,3 @@
+﻿  exam.cpp
+C:\Users\40727\source\repos\SAP\SAP\exam.cpp(18,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  SAP.vcxproj -> C:\Users\40727\source\repos\SAP\Debug\SAP.exe
